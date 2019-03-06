@@ -15,11 +15,7 @@ Building this project I've expanded my knowledge on:
 ### Website LIVE here:
 https://chrisdanbg.github.io/Admin-Bootstrap-Dashboard/
 
-***
-
 ## Screens
-
-***
 
 ### Desktop
 ![Screenshot](https://i.postimg.cc/7L4KqSnk/Screenshot-2019-03-06-at-14-01-34.png)
